@@ -8,7 +8,7 @@
 
 Estudando Segurança da Informação na **Unip**<br/>
 
-Eu sou desenvolvedor freelancer **backend Python PHP NodeJS**.
+Eu sou desenvolvedor freelancer **backend PHP NodeJS**.
 
 
 </p>
