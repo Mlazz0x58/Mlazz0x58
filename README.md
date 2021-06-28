@@ -1,15 +1,22 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=mlazz0x58&show_icons=true&title_color=008000&text_color=228B22&icon_color=32CD32&bg_color=f8efd4&cache_seconds=2300">
+### 👋 Hi there, I'm Michel Lazzarin
+<img align='right' src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" width="230" height="100">
+<p><em>Information security student at <a href="https://www.unip.br/">Unip</a>
+ </em></p>
 
-### - 👋 Olá, sou @ Mlazz0x58
+[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:michel.lazzarin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-lazzarin)
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Michel+Lazzarin&color=f8efd4&style=for-the-badge&logo=GitHub">
-
-<p>
-
-Estudando Segurança da Informação na **Unip**<br/>
-
-Eu sou desenvolvedor freelancer **backend PHP**.
-
-
-</p>
-<hr>
+<details>
+<center>
+<table>
+  <tr>
+    <td>
+      <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mlazz0x58&hide=hlsl&layout=compact&show_icons=true&theme=cobalt">
+    </td>
+    <td>
+      <img align='left' src="https://github-readme-stats.vercel.app/api?username=Mlazz0x58&show_icons=true&theme=cobalt">
+    </td>
+  </tr>
+<table>
+<center>
+</details>
