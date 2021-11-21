@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Michel Lazzarin
-<img align='right' src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" width="230" height="100">
+
 <p><em>Information security student at <a href="https://www.unip.br/">Unip</a>
  </em></p>
 
@@ -10,6 +10,9 @@
 <center>
 <table>
   <tr>
+    <td>
+      <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mlazz0x58&hide=hlsl&layout=compact&show_icons=true&theme=cobalt">
+    </td>
     <td>
       <img align='left' src="https://github-readme-stats.vercel.app/api?username=Mlazz0x58&show_icons=true&theme=cobalt">
     </td>
