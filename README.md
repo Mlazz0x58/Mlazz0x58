@@ -11,9 +11,6 @@
 <table>
   <tr>
     <td>
-      <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mlazz0x58&hide=hlsl&layout=compact&show_icons=true&theme=cobalt">
-    </td>
-    <td>
       <img align='left' src="https://github-readme-stats.vercel.app/api?username=Mlazz0x58&show_icons=true&theme=cobalt">
     </td>
   </tr>
